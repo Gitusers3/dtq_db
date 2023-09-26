@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "64b908db9303a5ba1b5cf614"
+  },
+  "intership_on": "MERN",
+  "frontend_lang": "React",
+  "backend_lang": "Express, Node js",
+  "desc": "Full Stack Web Development Using MERN",
+  "status": "Active",
+  "created_at": {
+    "$date": "2023-07-20T10:13:47.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b909519303a5ba1b5cf616"
+  },
+  "intership_on": "ML",
+  "frontend_lang": "Django",
+  "backend_lang": "Python",
+  "desc": "Machine Learning Using Python",
+  "status": "Active",
+  "created_at": {
+    "$date": "2023-07-20T10:15:45.312Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b909a49303a5ba1b5cf618"
+  },
+  "intership_on": "PHP Web Development",
+  "frontend_lang": "HTML",
+  "backend_lang": "PHP",
+  "desc": "Full Stack Web Development Using PHP",
+  "status": "Active",
+  "created_at": {
+    "$date": "2023-07-20T10:17:08.636Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b909cd9303a5ba1b5cf61a"
+  },
+  "intership_on": "Python Web Development",
+  "frontend_lang": "Django",
+  "backend_lang": "Python",
+  "desc": "Full Stack Web Development Using Python",
+  "status": "Active",
+  "created_at": {
+    "$date": "2023-07-20T10:17:49.961Z"
+  },
+  "__v": 0
+}]

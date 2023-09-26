@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "64db1f44d4345c701f7ec327"
+  },
+  "dayofweek": "Monday",
+  "first_session": "MERN2023A",
+  "second_session": "DS2023A",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64db1f4ed4345c701f7ec329"
+  },
+  "dayofweek": "Tuesday",
+  "first_session": "MERN2023A",
+  "second_session": "DS2023A",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64db1f54d4345c701f7ec32b"
+  },
+  "dayofweek": "Wednesday",
+  "first_session": "MERN2023A",
+  "second_session": "DS2023A",
+  "__v": 0
+}]

@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "650ec2e914147800a8be0946"
+  },
+  "b_name": "MERN STACK D",
+  "d_id": {
+    "$oid": "64b6328ce4c71dfecf988ddc"
+  },
+  "class_id": {
+    "$oid": "64dc9841eaaf8bd03f7b317b"
+  },
+  "tech_id": [
+    {
+      "$oid": "64d4d6bbf794437207f9f007"
+    },
+    {
+      "$oid": "64d4d801f794437207f9f026"
+    },
+    {
+      "$oid": "64d4d8c7f794437207f9f034"
+    }
+  ],
+  "project_id": [],
+  "status": "Ongoing",
+  "timings": [
+    {
+      "id": 1,
+      "day": "Monday",
+      "from_time": "09:30:00",
+      "to_time": "11:30:00"
+    },
+    {
+      "id": 2,
+      "day": "Wednesday",
+      "from_time": "09:30:00",
+      "to_time": "11:30:00"
+    },
+    {
+      "id": 3,
+      "day": "Friday",
+      "from_time": "09:30:00",
+      "to_time": "11:30:00"
+    }
+  ],
+  "c_date": {
+    "$date": "2023-09-23T10:50:17.402Z"
+  },
+  "__v": 0
+}]

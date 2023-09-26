@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "64d4cdb6b786497929992b7d"
+  },
+  "rec_num": "DTQFR1",
+  "div_id": {
+    "$oid": "64b63271e4c71dfecf988dd8"
+  },
+  "amount": 2000,
+  "std_id": {
+    "$oid": "64d4cc38a325db46a42727c4"
+  },
+  "pay_type": "Cash",
+  "fees_type": "Partial",
+  "status": "paid",
+  "f_date": {
+    "$date": "2023-08-10T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2023-08-10T11:44:54.877Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64db1ee3d4345c701f7ec24f"
+  },
+  "rec_num": "DTQFR2",
+  "div_id": {
+    "$oid": "64b63281e4c71dfecf988dda"
+  },
+  "amount": 4000,
+  "std_id": {
+    "$oid": "64d4cd50a325db46a427280c"
+  },
+  "pay_type": "Cash",
+  "fees_type": "Course Fees",
+  "status": "paid",
+  "f_date": {
+    "$date": "2023-08-15T00:00:00.000Z"
+  },
+  "created_at": {
+    "$date": "2023-08-15T06:44:51.896Z"
+  },
+  "__v": 0
+}]

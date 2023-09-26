@@ -1,0 +1,388 @@
+[{
+  "_id": {
+    "$oid": "64d4d4f2f794437207f9efb3"
+  },
+  "staff_name": "Sujad",
+  "profile": "1691669746153-aaaaaaaaa.png",
+  "employee_code": "EMPDQ103",
+  "employee_type": "Full Time",
+  "employee_category": "Permanent",
+  "role_id": {
+    "$oid": "64c0d2e470725fb28c5edfea"
+  },
+  "designation": "Software Developer",
+  "doj": "2021-09-10",
+  "gname": "Guardian",
+  "relationship": "guardian",
+  "gcontact": {
+    "$numberLong": "9876543210"
+  },
+  "paddress": "Kudroli",
+  "taddress": "Address",
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": 1234567886,
+  "email": "sujad@gmail.com",
+  "dob": "1997-09-14",
+  "blood_group": "AB+",
+  "gender": "male",
+  "marital_status": "single",
+  "created_at": {
+    "$date": "2023-08-10T12:06:02.021Z"
+  },
+  "pan_no": "987654321678",
+  "adhar_no": "6567876787",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4d6bbf794437207f9f007"
+  },
+  "staff_name": "Jazeel",
+  "profile": "1691670203379-dark.png",
+  "employee_code": "EMPDQ104",
+  "employee_type": "Full Time",
+  "employee_category": "Permanent",
+  "role_id": {
+    "$oid": "64c0d2e470725fb28c5edfea"
+  },
+  "designation": "Software Developer",
+  "doj": "2021-06-08",
+  "gname": "Guardian",
+  "relationship": "guardian",
+  "gcontact": {
+    "$numberLong": "9876543210"
+  },
+  "paddress": "Mangalore",
+  "taddress": "Kudroli",
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": {
+    "$numberLong": "9876543206"
+  },
+  "email": "jazeel@gmail.com",
+  "dob": "1998-10-10",
+  "blood_group": "A+",
+  "gender": "male",
+  "marital_status": "single",
+  "created_at": {
+    "$date": "2023-08-10T12:06:02.021Z"
+  },
+  "pan_no": "123412",
+  "adhar_no": "123456789009",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4d736f794437207f9f014"
+  },
+  "staff_name": "Krithika",
+  "profile": "1691670326094-aaaaaaaaa.png",
+  "employee_code": "EMPDQ105",
+  "employee_type": "Full Time",
+  "employee_category": "Permanent",
+  "role_id": {
+    "$oid": "64b8187cf8b8f0f8c04e4681"
+  },
+  "designation": "HR",
+  "doj": "2020-10-10",
+  "gname": "Guardian",
+  "relationship": "guardian",
+  "gcontact": {
+    "$numberLong": "9876543210"
+  },
+  "paddress": "Coorg",
+  "taddress": "Hampanakatta",
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": {
+    "$numberLong": "9876543210"
+  },
+  "email": "krithika@gmail.com",
+  "dob": "1999-10-10",
+  "blood_group": "A-",
+  "gender": "female",
+  "marital_status": "single",
+  "created_at": {
+    "$date": "2023-08-10T12:06:02.021Z"
+  },
+  "pan_no": "1234512",
+  "adhar_no": "123456789012",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4d7a0f794437207f9f01b"
+  },
+  "staff_name": "Fadi",
+  "profile": "1691670432779-aaaaaaaaa.png",
+  "employee_code": "EMPDQ106",
+  "employee_type": "Full Time",
+  "employee_category": "Temporry",
+  "role_id": {
+    "$oid": "64b8187cf8b8f0f8c04e4681"
+  },
+  "designation": "Marketing Executive",
+  "doj": "2023-08-10",
+  "gname": "Guardian",
+  "relationship": "relation",
+  "gcontact": {
+    "$numberLong": "9876543210"
+  },
+  "paddress": "Mangalore",
+  "taddress": "PVS circle",
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": {
+    "$numberLong": "9876543210"
+  },
+  "email": "fadi@gmail.com",
+  "dob": "1998-10-10",
+  "blood_group": "A+",
+  "gender": "male",
+  "marital_status": "single",
+  "created_at": {
+    "$date": "2023-08-10T12:06:02.021Z"
+  },
+  "pan_no": "1234123",
+  "adhar_no": "123456789123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4d801f794437207f9f026"
+  },
+  "staff_name": "Shaheed",
+  "profile": "1691670529821-dark.png",
+  "employee_code": "EMPDQ107",
+  "employee_type": "Full Time",
+  "employee_category": "Permanent",
+  "role_id": {
+    "$oid": "64c0d2e470725fb28c5edfea"
+  },
+  "designation": "Software Developer",
+  "doj": "2023-02-27",
+  "gname": "Guardian",
+  "relationship": "relation",
+  "gcontact": {
+    "$numberLong": "9876543210"
+  },
+  "paddress": "Savanoor",
+  "taddress": "Mangalore",
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": {
+    "$numberLong": "9876543210"
+  },
+  "email": "shaheedsvnr@gmail.com",
+  "dob": "2002-03-24",
+  "blood_group": "AB+",
+  "gender": "male",
+  "marital_status": "single",
+  "created_at": {
+    "$date": "2023-08-10T12:06:02.021Z"
+  },
+  "pan_no": "12312312",
+  "adhar_no": "123456789012",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4d878f794437207f9f02d"
+  },
+  "staff_name": "Mehrooz",
+  "profile": "1691670648624-dark.png",
+  "employee_code": "EMPDQ108",
+  "employee_type": "Full Time",
+  "employee_category": "Permanent",
+  "role_id": {
+    "$oid": "64c0d2e470725fb28c5edfea"
+  },
+  "designation": "Software Developer",
+  "doj": "2023-02-09",
+  "gname": "Guardian",
+  "relationship": "relation",
+  "gcontact": {
+    "$numberLong": "9876543210"
+  },
+  "paddress": "Bandhigod",
+  "taddress": "Mangalore",
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": {
+    "$numberLong": "9876543210"
+  },
+  "email": "mehrooz@gmail.com",
+  "dob": "2000-10-10",
+  "blood_group": "A+",
+  "gender": "male",
+  "marital_status": "single",
+  "created_at": {
+    "$date": "2023-08-10T12:06:02.021Z"
+  },
+  "pan_no": "1212123",
+  "adhar_no": "123456789012",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4d8c7f794437207f9f034"
+  },
+  "staff_name": "Nihad",
+  "profile": "1691670727858-aaaaaaaaa.png",
+  "employee_code": "EMPDQ109",
+  "employee_type": "Full Time",
+  "employee_category": "Permanent",
+  "role_id": {
+    "$oid": "64c0d2e470725fb28c5edfea"
+  },
+  "designation": "Software Developer",
+  "doj": "2023-02-09",
+  "gname": "Guardian",
+  "relationship": "relation",
+  "gcontact": {
+    "$numberLong": "9876543210"
+  },
+  "paddress": "Uppinangady",
+  "taddress": "Mangalore",
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": {
+    "$numberLong": "9876543210"
+  },
+  "email": "nihad@gmail.com",
+  "dob": "2000-10-10",
+  "blood_group": "A+",
+  "gender": "male",
+  "marital_status": "single",
+  "created_at": {
+    "$date": "2023-08-10T12:06:02.021Z"
+  },
+  "pan_no": "12312",
+  "adhar_no": "1231212121212",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4d95af794437207f9f03b"
+  },
+  "staff_name": "Likitha",
+  "profile": "1691670874177-aaaaaaaaa.png",
+  "employee_code": "EMPDQ110",
+  "employee_type": "Full Time",
+  "employee_category": "Permanent",
+  "role_id": {
+    "$oid": "64c0d2e470725fb28c5edfea"
+  },
+  "designation": "Software Developer",
+  "doj": "2023-02-09",
+  "gname": "Guardian",
+  "relationship": "relation",
+  "gcontact": {
+    "$numberLong": "9876543210"
+  },
+  "paddress": "Pervaje",
+  "taddress": "Mangalore",
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": {
+    "$numberLong": "9876543210"
+  },
+  "email": "likitha@gmail.com",
+  "dob": "2000-10-10",
+  "blood_group": "A+",
+  "gender": "male",
+  "marital_status": "single",
+  "created_at": {
+    "$date": "2023-08-10T12:06:02.021Z"
+  },
+  "pan_no": "12312312",
+  "adhar_no": "123456789012",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4d9b6f794437207f9f046"
+  },
+  "staff_name": "Zamiya",
+  "profile": "1691670966628-aaaaaaaaa.png",
+  "employee_code": "EMPDQ111",
+  "employee_type": "Full Time",
+  "employee_category": "Permanent",
+  "role_id": {
+    "$oid": "64c0d2e470725fb28c5edfea"
+  },
+  "designation": "Software Developer",
+  "doj": "2023-02-09",
+  "gname": "Guardian",
+  "relationship": "relation",
+  "gcontact": {
+    "$numberLong": "9876543210"
+  },
+  "paddress": "Bajal",
+  "taddress": "Mangalore",
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": {
+    "$numberLong": "9876543210"
+  },
+  "email": "zamiya@gmail.com",
+  "dob": "2000-10-10",
+  "blood_group": "A+",
+  "gender": "female",
+  "marital_status": "single",
+  "created_at": {
+    "$date": "2023-08-10T12:06:02.021Z"
+  },
+  "pan_no": "1234123",
+  "adhar_no": "1234567890123",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4daeef794437207f9f08e"
+  },
+  "staff_name": "Prthwi",
+  "profile": "1691671278408-aaaaaaaaa.png",
+  "employee_code": "EMPDQ112",
+  "employee_type": "Full Time",
+  "employee_category": "Temporry",
+  "role_id": {
+    "$oid": "64c0d2e470725fb28c5edfea"
+  },
+  "designation": "Software Developer",
+  "doj": "2023-06-01",
+  "gname": "Guardian",
+  "relationship": "relation",
+  "gcontact": {
+    "$numberLong": "9876543210"
+  },
+  "paddress": "Vamanjoor",
+  "taddress": "Mangalore",
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": {
+    "$numberLong": "9876543210"
+  },
+  "email": "prthwi@gmail.com",
+  "dob": "2000-10-10",
+  "blood_group": "AB+",
+  "gender": "male",
+  "marital_status": "single",
+  "created_at": {
+    "$date": "2023-08-10T12:06:02.021Z"
+  },
+  "pan_no": "1212123",
+  "adhar_no": "123456789012",
+  "__v": 0
+}]

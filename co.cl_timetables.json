@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "64db1f92d4345c701f7ec33f"
+  },
+  "dayofweek": "Monday",
+  "first_session": "REACT2023A",
+  "second_session": "REACT2023B",
+  "third_session": "REACT2023B",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64db1f98d4345c701f7ec341"
+  },
+  "dayofweek": "Wednesday",
+  "first_session": "REACT2023A",
+  "second_session": "REACT2023B",
+  "third_session": "REACT2023B",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64db1f9dd4345c701f7ec343"
+  },
+  "dayofweek": "Friday",
+  "first_session": "REACT2023A",
+  "second_session": "REACT2023B",
+  "third_session": "REACT2023B",
+  "__v": 0
+}]

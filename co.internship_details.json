@@ -1,0 +1,421 @@
+[{
+  "_id": {
+    "$oid": "64c8d03b1b1b7052acc72bbb"
+  },
+  "student_id": {
+    "$oid": "64c8d03b1b1b7052acc72bb3"
+  },
+  "created_at": {
+    "$date": "2023-08-01T09:02:59.507Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c9ec138bb068bcac5e8b3c"
+  },
+  "student_id": {
+    "$oid": "64c9ec138bb068bcac5e8b34"
+  },
+  "created_at": {
+    "$date": "2023-08-02T04:26:43.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c9efff7cfc1f387ebdcbb0"
+  },
+  "student_id": {
+    "$oid": "64c9efff7cfc1f387ebdcba8"
+  },
+  "created_at": {
+    "$date": "2023-08-02T05:47:10.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c9f10a7cfc1f387ebdcbc6"
+  },
+  "student_id": {
+    "$oid": "64c9f10a7cfc1f387ebdcbbe"
+  },
+  "created_at": {
+    "$date": "2023-08-02T05:47:10.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c9f1247cfc1f387ebdcbdc"
+  },
+  "student_id": {
+    "$oid": "64c9f1247cfc1f387ebdcbd4"
+  },
+  "created_at": {
+    "$date": "2023-08-02T05:47:10.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c9f2457cfc1f387ebdcc03"
+  },
+  "student_id": {
+    "$oid": "64c9f2457cfc1f387ebdcbfb"
+  },
+  "created_at": {
+    "$date": "2023-08-02T05:47:10.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c9f2f37cfc1f387ebdcc4c"
+  },
+  "student_id": {
+    "$oid": "64c9f2f37cfc1f387ebdcc44"
+  },
+  "created_at": {
+    "$date": "2023-08-02T05:47:10.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c9f3ea7cfc1f387ebdcc97"
+  },
+  "student_id": {
+    "$oid": "64c9f3ea7cfc1f387ebdcc8f"
+  },
+  "created_at": {
+    "$date": "2023-08-02T05:47:10.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c9f5d767150b46387a0a21"
+  },
+  "student_id": {
+    "$oid": "64c9f5d767150b46387a0a19"
+  },
+  "created_at": {
+    "$date": "2023-08-02T06:21:06.962Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c9f602449e50429589a37d"
+  },
+  "student_id": {
+    "$oid": "64c9f602449e50429589a375"
+  },
+  "created_at": {
+    "$date": "2023-08-02T06:21:46.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c9fc41449e50429589a51c"
+  },
+  "student_id": {
+    "$oid": "64c9fc41449e50429589a514"
+  },
+  "created_at": {
+    "$date": "2023-08-02T06:21:46.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64ca02f3449e50429589a59f"
+  },
+  "student_id": {
+    "$oid": "64ca02f3449e50429589a597"
+  },
+  "created_at": {
+    "$date": "2023-08-02T06:21:46.888Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cca7fb2d98d0e7d5e0df51"
+  },
+  "student_id": {
+    "$oid": "64cca7fb2d98d0e7d5e0df49"
+  },
+  "created_at": {
+    "$date": "2023-08-04T07:25:42.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64cca8322d98d0e7d5e0df5b"
+  },
+  "student_id": {
+    "$oid": "64cca8322d98d0e7d5e0df53"
+  },
+  "created_at": {
+    "$date": "2023-08-04T07:25:42.676Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d483e5a325db46a427227f"
+  },
+  "student_id": {
+    "$oid": "64d483e5a325db46a4272277"
+  },
+  "start_date": {
+    "$date": "2020-02-20T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2020-05-20T00:00:00.000Z"
+  },
+  "start_time": "09:30",
+  "end_time": "01:30",
+  "no_of_days": "90",
+  "created_at": {
+    "$date": "2023-08-10T06:29:53.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d48435a325db46a427228c"
+  },
+  "student_id": {
+    "$oid": "64d48435a325db46a4272284"
+  },
+  "start_date": {
+    "$date": "2020-02-20T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2020-05-20T00:00:00.000Z"
+  },
+  "start_time": "09:30",
+  "end_time": "01:00",
+  "no_of_days": "90",
+  "created_at": {
+    "$date": "2023-08-10T06:29:53.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4845ca325db46a4272299"
+  },
+  "student_id": {
+    "$oid": "64d4845ca325db46a4272291"
+  },
+  "start_date": {
+    "$date": "2020-02-20T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2020-05-20T00:00:00.000Z"
+  },
+  "start_time": "09:30",
+  "end_time": "01:00",
+  "no_of_days": "90",
+  "created_at": {
+    "$date": "2023-08-10T06:29:53.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d484d0a325db46a42722a4"
+  },
+  "student_id": {
+    "$oid": "64d484d0a325db46a427229c"
+  },
+  "start_date": {
+    "$date": "2020-02-20T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2020-05-20T00:00:00.000Z"
+  },
+  "start_time": "09:30",
+  "end_time": "01:00",
+  "no_of_days": "90",
+  "created_at": {
+    "$date": "2023-08-10T06:29:53.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d48627a325db46a42722b3"
+  },
+  "student_id": {
+    "$oid": "64d48627a325db46a42722ab"
+  },
+  "start_date": {
+    "$date": "2020-02-20T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2020-05-20T00:00:00.000Z"
+  },
+  "start_time": "09:30",
+  "end_time": "01:00",
+  "no_of_days": "90",
+  "created_at": {
+    "$date": "2023-08-10T06:29:53.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4cc38a325db46a42727cc"
+  },
+  "student_id": {
+    "$oid": "64d4cc38a325db46a42727c4"
+  },
+  "start_date": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  },
+  "start_time": "09:30",
+  "end_time": "01:30",
+  "no_of_days": "90",
+  "created_at": {
+    "$date": "2023-08-10T06:29:53.551Z"
+  },
+  "__v": 0,
+  "internship_id": {
+    "$oid": "64b908db9303a5ba1b5cf614"
+  },
+  "no_of_hours": "240"
+},
+{
+  "_id": {
+    "$oid": "64d4cc77a325db46a42727d8"
+  },
+  "student_id": {
+    "$oid": "64d4cc77a325db46a42727d0"
+  },
+  "start_date": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  },
+  "start_time": "09:30",
+  "end_time": "01:30",
+  "no_of_days": "90",
+  "created_at": {
+    "$date": "2023-08-10T06:29:53.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4cc9da325db46a42727e4"
+  },
+  "student_id": {
+    "$oid": "64d4cc9da325db46a42727dc"
+  },
+  "start_date": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  },
+  "start_time": "09:30",
+  "end_time": "01:30",
+  "no_of_days": "90",
+  "created_at": {
+    "$date": "2023-08-10T06:29:53.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4cd50a325db46a4272814"
+  },
+  "student_id": {
+    "$oid": "64d4cd50a325db46a427280c"
+  },
+  "created_at": {
+    "$date": "2023-08-10T06:29:53.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d608e478da4681c88680e4"
+  },
+  "student_id": {
+    "$oid": "64d608e478da4681c88680dc"
+  },
+  "start_date": {
+    "$date": "2023-08-14T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2023-09-15T00:00:00.000Z"
+  },
+  "start_time": "09:30",
+  "end_time": "01:30",
+  "no_of_days": "30",
+  "no_of_hours": "45",
+  "created_at": {
+    "$date": "2023-08-11T09:19:21.509Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72b9f32aff20387d59381"
+  },
+  "student_id": {
+    "$oid": "64d72b9f32aff20387d59379"
+  },
+  "start_date": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2023-11-12T00:00:00.000Z"
+  },
+  "start_time": "09:30",
+  "end_time": "01:30",
+  "no_of_days": "90",
+  "no_of_hours": "270",
+  "created_at": {
+    "$date": "2023-08-12T06:32:56.204Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d73103275094b760796280"
+  },
+  "internship_id": {
+    "$oid": "64b909cd9303a5ba1b5cf61a"
+  },
+  "student_id": {
+    "$oid": "64d73103275094b760796278"
+  },
+  "start_date": {
+    "$date": "2023-08-01T00:00:00.000Z"
+  },
+  "end_date": {
+    "$date": "2023-11-01T00:00:00.000Z"
+  },
+  "start_time": "11:30",
+  "end_time": "01:30",
+  "no_of_days": "30",
+  "no_of_hours": "60",
+  "created_at": {
+    "$date": "2023-08-12T06:58:07.903Z"
+  },
+  "__v": 0
+}]

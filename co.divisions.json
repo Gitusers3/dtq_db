@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "64b63271e4c71dfecf988dd8"
+  },
+  "d_name": "Cognitive Solution",
+  "d_status": "Active",
+  "d_adate": {
+    "$date": "2023-07-18T06:34:25.835Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b63281e4c71dfecf988dda"
+  },
+  "d_name": "QueueTech Solution",
+  "d_status": "Active",
+  "d_adate": {
+    "$date": "2023-07-18T06:34:41.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b6328ce4c71dfecf988ddc"
+  },
+  "d_name": "CodeLab Systems",
+  "d_status": "Active",
+  "d_adate": {
+    "$date": "2023-07-18T06:34:52.845Z"
+  },
+  "__v": 0
+}]

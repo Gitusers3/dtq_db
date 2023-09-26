@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "64b11afc051202540566061b"
+  },
+  "a_name": "Admin",
+  "a_phone": "9876543210",
+  "a_email": "email@gmail.com",
+  "a_password": "$2a$10$VZYEj25suYipfSAxy4ksnOkEu5X4aMBrUsYfcjeBuSIPVqi3iYXWm",
+  "a_status": "Active",
+  "a_adate": {
+    "$date": "2023-07-14T09:53:00.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64dca8285a536339ac71935c"
+  },
+  "a_name": "HR",
+  "a_phone": "9876543210",
+  "a_email": "hr@gmail.com",
+  "a_password": "$2a$10$VZYEj25suYipfSAxy4ksnOkEu5X4aMBrUsYfcjeBuSIPVqi3iYXWm",
+  "a_status": "Active",
+  "a_adate": {
+    "$date": "2023-07-14T09:53:00.059Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,699 @@
+[{
+  "_id": {
+    "$oid": "64d4cc38a325db46a42727c4"
+  },
+  "division_id": {
+    "$oid": "64b63271e4c71dfecf988dd8"
+  },
+  "our_reg_no": "CS101",
+  "date_of_admission": {
+    "$date": "2023-08-08T00:00:00.000Z"
+  },
+  "student_name": "Nihad",
+  "image": "1695358888169-dark.png",
+  "whatsup": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": {
+    "$numberLong": "9876543210"
+  },
+  "email_id": "nihad@gmail.com",
+  "parent_contact": {
+    "$numberLong": "9876543210"
+  },
+  "course_id": {
+    "$oid": "64b51cc65e8a6a61d5f4cbff"
+  },
+  "project_id": {
+    "$oid": "64d4cc38a325db46a42727c2"
+  },
+  "university_reg_no": "54321",
+  "college_id": {
+    "$oid": "64b5109c0d97c3a1d6954335"
+  },
+  "fees": 12000,
+  "pending_fees": 10000,
+  "status": "Ongoing",
+  "t_address": "Temporary Address",
+  "p_address": "Permanent Address",
+  "t_pincode": 567432,
+  "t_district": "Temporary district",
+  "t_state": "Temporary State",
+  "p_pincode": 454556,
+  "p_district": "Permanent district",
+  "p_state": "Permanent State",
+  "stream": "cs",
+  "all_status": "Ongoing",
+  "created_at": {
+    "$date": "2023-08-10T11:38:32.440Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4cc77a325db46a42727d0"
+  },
+  "division_id": {
+    "$oid": "64b63271e4c71dfecf988dd8"
+  },
+  "our_reg_no": "CS102",
+  "date_of_admission": {
+    "$date": "2023-08-08T00:00:00.000Z"
+  },
+  "student_name": "Mehrooz",
+  "image": "1691667575252-Screenshot (4).png",
+  "whatsup": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": {
+    "$numberLong": "9876543210"
+  },
+  "email_id": "mehrooz@gmail.com",
+  "parent_contact": {
+    "$numberLong": "9876543210"
+  },
+  "course_id": {
+    "$oid": "64b51cc65e8a6a61d5f4cbff"
+  },
+  "project_id": {
+    "$oid": "64d4cc77a325db46a42727ce"
+  },
+  "university_reg_no": "54321",
+  "college_id": {
+    "$oid": "64b5109c0d97c3a1d6954335"
+  },
+  "fees": 12000,
+  "pending_fees": 12000,
+  "status": "Ongoing",
+  "t_address": "Temporary Address",
+  "p_address": "Permanent Address",
+  "t_pincode": 567432,
+  "t_district": "Temporary district",
+  "t_state": "Temporary State",
+  "p_pincode": 454556,
+  "p_district": "Permanent district",
+  "p_state": "Permanent State",
+  "stream": "cs",
+  "all_status": "Ongoing",
+  "created_at": {
+    "$date": "2023-08-10T11:39:35.262Z"
+  },
+  "__v": 0,
+  "batch_id": {
+    "$oid": "650d40af5b9846fb861fe16b"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d4cc9da325db46a42727dc"
+  },
+  "division_id": {
+    "$oid": "64b63271e4c71dfecf988dd8"
+  },
+  "our_reg_no": "CS103",
+  "date_of_admission": {
+    "$date": "2023-08-08T00:00:00.000Z"
+  },
+  "student_name": "likitha",
+  "image": "1691667613154-Screenshot (4).png",
+  "whatsup": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": {
+    "$numberLong": "9876543210"
+  },
+  "email_id": "likitha@gmail.com",
+  "parent_contact": {
+    "$numberLong": "9876543210"
+  },
+  "course_id": {
+    "$oid": "64b51cc65e8a6a61d5f4cbff"
+  },
+  "project_id": {
+    "$oid": "64d4cc9da325db46a42727da"
+  },
+  "university_reg_no": "54321",
+  "college_id": {
+    "$oid": "64c9e4d58bb068bcac5e8ab1"
+  },
+  "fees": 12000,
+  "pending_fees": 12000,
+  "status": "Ongoing",
+  "t_address": "Temporary Address",
+  "p_address": "Permanent Address",
+  "t_pincode": 567432,
+  "t_district": "Temporary district",
+  "t_state": "Temporary State",
+  "p_pincode": 454556,
+  "p_district": "Permanent district",
+  "p_state": "Permanent State",
+  "stream": "cs",
+  "all_status": "Ongoing",
+  "created_at": {
+    "$date": "2023-08-10T11:40:13.202Z"
+  },
+  "__v": 0,
+  "batch_id": {
+    "$oid": "650d40af5b9846fb861fe16b"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d4cd50a325db46a427280c"
+  },
+  "division_id": {
+    "$oid": "64b63281e4c71dfecf988dda"
+  },
+  "our_reg_no": "QS101",
+  "date_of_admission": {
+    "$date": "2023-08-07T00:00:00.000Z"
+  },
+  "student_name": "Jazeel",
+  "image": "1691667792312-aaaaaaaaa.png",
+  "whatsup": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": -1,
+  "email_id": "customer@gmail.com",
+  "course_id": {
+    "$oid": "64b51cc65e8a6a61d5f4cbff"
+  },
+  "project_id": {
+    "$oid": "64d4cd50a325db46a427280a"
+  },
+  "college_id": {
+    "$oid": "64b5109c0d97c3a1d6954335"
+  },
+  "fees": 4000,
+  "pending_fees": 0,
+  "status": "Ongoing",
+  "t_address": "Address",
+  "p_address": "Address",
+  "t_pincode": 123456,
+  "t_district": "Temporary district",
+  "t_state": "State",
+  "p_pincode": 123456,
+  "p_district": "Permanent district",
+  "p_state": "State",
+  "stream": "cs",
+  "all_status": "Completed",
+  "created_at": {
+    "$date": "2023-08-10T11:43:12.322Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d608e478da4681c88680dc"
+  },
+  "division_id": {
+    "$oid": "64b6328ce4c71dfecf988ddc"
+  },
+  "our_reg_no": "CL101",
+  "date_of_admission": {
+    "$date": "2023-03-03T00:00:00.000Z"
+  },
+  "student_name": "Gautham",
+  "image": "1691748580861-aaaaaaaaa.png",
+  "whatsup": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": {
+    "$numberLong": "9876543210"
+  },
+  "email_id": "gautham@gmail.ocm",
+  "parent_contact": 1234123,
+  "course_id": {
+    "$oid": "64b51cc65e8a6a61d5f4cbff"
+  },
+  "project_id": {
+    "$oid": "64d608e478da4681c88680da"
+  },
+  "university_reg_no": "1234",
+  "college_id": {
+    "$oid": "64c9e5e18bb068bcac5e8acb"
+  },
+  "fees": 2000,
+  "pending_fees": 2000,
+  "status": "Ongoing",
+  "t_address": "Temporary Address",
+  "p_address": "Permanent Address",
+  "t_pincode": 123456,
+  "t_district": "Temporary district",
+  "t_state": "Temporary State",
+  "p_pincode": 123456,
+  "p_district": "Permanent district",
+  "p_state": "Permanent State",
+  "stream": "cs",
+  "all_status": "Ongoing",
+  "created_at": {
+    "$date": "2023-08-11T10:09:40.904Z"
+  },
+  "__v": 0,
+  "batch_id": {
+    "$oid": "64d4da4ef794437207f9f07b"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d610e7f4c7f8c84dd8aae5"
+  },
+  "division_id": {
+    "$oid": "64b6328ce4c71dfecf988ddc"
+  },
+  "our_reg_no": "CL101",
+  "date_of_admission": {
+    "$date": "2023-03-03T00:00:00.000Z"
+  },
+  "student_name": "Gauthu",
+  "image": "1691748580861-aaaaaaaaa.png",
+  "whatsup": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": {
+    "$numberLong": "9876543210"
+  },
+  "email_id": "gautham@gmail.ocm",
+  "parent_contact": 1234123,
+  "course_id": {
+    "$oid": "64b51cc65e8a6a61d5f4cbff"
+  },
+  "project_id": {
+    "$oid": "64d608e478da4681c88680da"
+  },
+  "university_reg_no": "1234",
+  "college_id": {
+    "$oid": "64c9e5e18bb068bcac5e8acb"
+  },
+  "fees": 2000,
+  "pending_fees": 2000,
+  "status": "Ongoing",
+  "t_address": "Temporary Address",
+  "p_address": "Permanent Address",
+  "t_pincode": 123456,
+  "t_district": "Temporary district",
+  "t_state": "Temporary State",
+  "p_pincode": 123456,
+  "p_district": "Permanent district",
+  "p_state": "Permanent State",
+  "stream": "cs",
+  "all_status": "Ongoing",
+  "created_at": {
+    "$date": "2023-08-11T10:09:40.904Z"
+  },
+  "__v": 0,
+  "batch_id": {
+    "$oid": "650ec2e914147800a8be0946"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d72b9f32aff20387d59379"
+  },
+  "division_id": {
+    "$oid": "64b63271e4c71dfecf988dd8"
+  },
+  "our_reg_no": "CS111",
+  "date_of_admission": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "student_name": "Safwan",
+  "image": "1691823007847-aaaaaaaaa.png",
+  "whatsup": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": {
+    "$numberLong": "9876543210"
+  },
+  "email_id": "safwan@gmail.com",
+  "parent_contact": 1234567890,
+  "course_id": {
+    "$oid": "64b51cc65e8a6a61d5f4cbff"
+  },
+  "project_id": {
+    "$oid": "64d72b9f32aff20387d59377"
+  },
+  "university_reg_no": "1234",
+  "college_id": {
+    "$oid": "64b8ca63acb80dbb3e3aaa5d"
+  },
+  "fees": 12000,
+  "pending_fees": 12000,
+  "status": "Ongoing",
+  "t_address": "Address",
+  "p_address": "Permanent Address",
+  "t_pincode": 123456,
+  "t_district": "Temporary district",
+  "t_state": "State",
+  "p_pincode": 123456,
+  "p_district": "Permanent district",
+  "p_state": "State",
+  "stream": "cs",
+  "all_status": "Ongoing",
+  "created_at": {
+    "$date": "2023-08-12T06:50:07.882Z"
+  },
+  "__v": 0,
+  "batch_id": {
+    "$oid": "650d40af5b9846fb861fe16b"
+  }
+},
+{
+  "_id": {
+    "$oid": "64d73103275094b760796278"
+  },
+  "division_id": {
+    "$oid": "64b63271e4c71dfecf988dd8"
+  },
+  "our_reg_no": "CS232",
+  "date_of_admission": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "student_name": "Murshid",
+  "image": "1691824387865-aaaaaaaaa.png",
+  "whatsup": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": {
+    "$numberLong": "9123456789"
+  },
+  "email_id": "murshid@gmail.com",
+  "parent_contact": 1234567891,
+  "course_id": {
+    "$oid": "64d770f380ecb8af1e76d802"
+  },
+  "project_id": {
+    "$oid": "64d73103275094b760796276"
+  },
+  "college_id": {
+    "$oid": "64c9e5e18bb068bcac5e8acb"
+  },
+  "fees": 12000,
+  "pending_fees": 12000,
+  "status": "Ongoing",
+  "t_address": "Temporary Address",
+  "p_address": "Permanent Address",
+  "t_pincode": 765432,
+  "t_district": "Temporary district",
+  "t_state": "Temporary State",
+  "p_pincode": 123456,
+  "p_district": "Permanent district",
+  "p_state": "State",
+  "stream": "cs",
+  "all_status": "Ongoing",
+  "created_at": {
+    "$date": "2023-08-12T07:13:07.896Z"
+  },
+  "__v": 0,
+  "batch_id": {
+    "$oid": "650d40af5b9846fb861fe16b"
+  }
+},
+{
+  "_id": {
+    "$oid": "64db1e255a536339ac719356"
+  },
+  "division_id": {
+    "$oid": "64b63271e4c71dfecf988dd8"
+  },
+  "our_reg_no": "CS232",
+  "date_of_admission": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "student_name": "Murshid2",
+  "image": "1691824387865-aaaaaaaaa.png",
+  "whatsup": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": {
+    "$numberLong": "9123456789"
+  },
+  "email_id": "murshid@gmail.com",
+  "parent_contact": 1234567891,
+  "course_id": {
+    "$oid": "64d770f380ecb8af1e76d802"
+  },
+  "project_id": {
+    "$oid": "64d73103275094b760796276"
+  },
+  "college_id": {
+    "$oid": "64c9e5e18bb068bcac5e8acb"
+  },
+  "fees": 12000,
+  "pending_fees": 12000,
+  "status": "Ongoing",
+  "t_address": "Temporary Address",
+  "p_address": "Permanent Address",
+  "t_pincode": 765432,
+  "t_district": "Temporary district",
+  "t_state": "Temporary State",
+  "p_pincode": 123456,
+  "p_district": "Permanent district",
+  "p_state": "State",
+  "stream": "cs",
+  "all_status": "Ongoing",
+  "created_at": {
+    "$date": "2023-08-12T07:13:07.896Z"
+  },
+  "__v": 0,
+  "batch_id": {
+    "$oid": "650d40af5b9846fb861fe16b"
+  }
+},
+{
+  "_id": {
+    "$oid": "64db1e305a536339ac719357"
+  },
+  "division_id": {
+    "$oid": "64b63271e4c71dfecf988dd8"
+  },
+  "our_reg_no": "CS232",
+  "date_of_admission": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "student_name": "Murshid3",
+  "image": "1691824387865-aaaaaaaaa.png",
+  "whatsup": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": {
+    "$numberLong": "9123456789"
+  },
+  "email_id": "murshid@gmail.com",
+  "parent_contact": 1234567891,
+  "course_id": {
+    "$oid": "64d770f380ecb8af1e76d802"
+  },
+  "project_id": {
+    "$oid": "64d73103275094b760796276"
+  },
+  "college_id": {
+    "$oid": "64c9e5e18bb068bcac5e8acb"
+  },
+  "fees": 12000,
+  "pending_fees": 12000,
+  "status": "Ongoing",
+  "t_address": "Temporary Address",
+  "p_address": "Permanent Address",
+  "t_pincode": 765432,
+  "t_district": "Temporary district",
+  "t_state": "Temporary State",
+  "p_pincode": 123456,
+  "p_district": "Permanent district",
+  "p_state": "State",
+  "stream": "cs",
+  "all_status": "Ongoing",
+  "created_at": {
+    "$date": "2023-08-12T07:13:07.896Z"
+  },
+  "__v": 0,
+  "batch_id": {
+    "$oid": "650d40af5b9846fb861fe16b"
+  }
+},
+{
+  "_id": {
+    "$oid": "64db1e3f5a536339ac719358"
+  },
+  "division_id": {
+    "$oid": "64b63271e4c71dfecf988dd8"
+  },
+  "our_reg_no": "CS232",
+  "date_of_admission": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "student_name": "Murshid4",
+  "image": "1691824387865-aaaaaaaaa.png",
+  "whatsup": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": {
+    "$numberLong": "9123456789"
+  },
+  "email_id": "murshid@gmail.com",
+  "parent_contact": 1234567891,
+  "course_id": {
+    "$oid": "64d770f380ecb8af1e76d802"
+  },
+  "project_id": {
+    "$oid": "64d73103275094b760796276"
+  },
+  "college_id": {
+    "$oid": "64c9e5e18bb068bcac5e8acb"
+  },
+  "fees": 12000,
+  "pending_fees": 12000,
+  "status": "Ongoing",
+  "t_address": "Temporary Address",
+  "p_address": "Permanent Address",
+  "t_pincode": 765432,
+  "t_district": "Temporary district",
+  "t_state": "Temporary State",
+  "p_pincode": 123456,
+  "p_district": "Permanent district",
+  "p_state": "State",
+  "stream": "cs",
+  "all_status": "Ongoing",
+  "created_at": {
+    "$date": "2023-08-12T07:13:07.896Z"
+  },
+  "__v": 0,
+  "batch_id": {
+    "$oid": "650d40af5b9846fb861fe16b"
+  }
+},
+{
+  "_id": {
+    "$oid": "64db1e505a536339ac719359"
+  },
+  "division_id": {
+    "$oid": "64b63271e4c71dfecf988dd8"
+  },
+  "our_reg_no": "CS232",
+  "date_of_admission": {
+    "$date": "2023-08-12T00:00:00.000Z"
+  },
+  "student_name": "Murshid5",
+  "image": "1691824387865-aaaaaaaaa.png",
+  "whatsup": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": {
+    "$numberLong": "9123456789"
+  },
+  "email_id": "murshid@gmail.com",
+  "parent_contact": 1234567891,
+  "course_id": {
+    "$oid": "64d770f380ecb8af1e76d802"
+  },
+  "project_id": {
+    "$oid": "64d73103275094b760796276"
+  },
+  "college_id": {
+    "$oid": "64c9e5e18bb068bcac5e8acb"
+  },
+  "fees": 12000,
+  "pending_fees": 12000,
+  "status": "Ongoing",
+  "t_address": "Temporary Address",
+  "p_address": "Permanent Address",
+  "t_pincode": 765432,
+  "t_district": "Temporary district",
+  "t_state": "Temporary State",
+  "p_pincode": 123456,
+  "p_district": "Permanent district",
+  "p_state": "State",
+  "stream": "cs",
+  "all_status": "Ongoing",
+  "created_at": {
+    "$date": "2023-08-12T07:13:07.896Z"
+  },
+  "__v": 0,
+  "batch_id": {
+    "$oid": "650d40af5b9846fb861fe16b"
+  }
+},
+{
+  "_id": {
+    "$oid": "64dc72bc5a536339ac71935a"
+  },
+  "division_id": {
+    "$oid": "64b63281e4c71dfecf988dda"
+  },
+  "our_reg_no": "QS101",
+  "date_of_admission": {
+    "$date": "2023-08-07T00:00:00.000Z"
+  },
+  "student_name": "Jazeel",
+  "image": "1691667792312-aaaaaaaaa.png",
+  "whatsup": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no1": {
+    "$numberLong": "9876543210"
+  },
+  "contact_no2": -1,
+  "email_id": "customer@gmail.com",
+  "course_id": {
+    "$oid": "64b51cc65e8a6a61d5f4cbff"
+  },
+  "project_id": {
+    "$oid": "64d4cd50a325db46a427280a"
+  },
+  "college_id": {
+    "$oid": "64b5109c0d97c3a1d6954335"
+  },
+  "fees": 4000,
+  "pending_fees": 4000,
+  "status": "Ongoing",
+  "t_address": "Address",
+  "p_address": "Address",
+  "t_pincode": 123456,
+  "t_district": "Temporary district",
+  "t_state": "State",
+  "p_pincode": 123456,
+  "p_district": "Permanent district",
+  "p_state": "State",
+  "stream": "cs",
+  "all_status": "Ongoing",
+  "created_at": {
+    "$date": "2023-08-10T11:43:12.322Z"
+  },
+  "__v": 0
+}]

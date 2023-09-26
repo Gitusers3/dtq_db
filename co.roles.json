@@ -1,0 +1,30 @@
+[{
+  "_id": {
+    "$oid": "64b8187cf8b8f0f8c04e4681"
+  },
+  "role": "HR",
+  "created_at": {
+    "$date": "2023-07-19T17:07:31.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64b818a71cca66d74dde5c2c"
+  },
+  "role": "Admin",
+  "created_at": {
+    "$date": "2023-07-19T17:08:32.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64c0d2e470725fb28c5edfea"
+  },
+  "role": "IT OPERATION",
+  "created_at": {
+    "$date": "2023-07-26T06:59:16.014Z"
+  },
+  "__v": 0
+}]

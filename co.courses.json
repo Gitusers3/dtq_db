@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "64b51cc65e8a6a61d5f4cbff"
+  },
+  "cou_name": "BCA",
+  "a_date": {
+    "$date": "2023-07-17T10:49:37.569Z"
+  },
+  "cou_status": "Active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d770f380ecb8af1e76d802"
+  },
+  "cou_name": "MCA",
+  "a_date": {
+    "$date": "2023-07-17T10:49:37.569Z"
+  },
+  "cou_status": "Active",
+  "__v": 0
+}]

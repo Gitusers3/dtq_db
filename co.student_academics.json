@@ -1,0 +1,273 @@
+[{
+  "_id": {
+    "$oid": "64d4cc38a325db46a42727c6"
+  },
+  "student_id": {
+    "$oid": "64d4cc38a325db46a42727c4"
+  },
+  "created_at": {
+    "$date": "2023-08-10T06:29:53.550Z"
+  },
+  "__v": 0,
+  "college": "St.Philomena College",
+  "course": "SSLC",
+  "percentage": "70"
+},
+{
+  "_id": {
+    "$oid": "64d4cc38a325db46a42727c8"
+  },
+  "student_id": {
+    "$oid": "64d4cc38a325db46a42727c4"
+  },
+  "created_at": {
+    "$date": "2023-08-10T06:29:53.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4cc38a325db46a42727ca"
+  },
+  "student_id": {
+    "$oid": "64d4cc38a325db46a42727c4"
+  },
+  "created_at": {
+    "$date": "2023-08-10T06:29:53.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4cc77a325db46a42727d2"
+  },
+  "student_id": {
+    "$oid": "64d4cc77a325db46a42727d0"
+  },
+  "created_at": {
+    "$date": "2023-08-10T06:29:53.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4cc77a325db46a42727d4"
+  },
+  "student_id": {
+    "$oid": "64d4cc77a325db46a42727d0"
+  },
+  "created_at": {
+    "$date": "2023-08-10T06:29:53.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4cc77a325db46a42727d6"
+  },
+  "student_id": {
+    "$oid": "64d4cc77a325db46a42727d0"
+  },
+  "created_at": {
+    "$date": "2023-08-10T06:29:53.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4cc9da325db46a42727de"
+  },
+  "student_id": {
+    "$oid": "64d4cc9da325db46a42727dc"
+  },
+  "created_at": {
+    "$date": "2023-08-10T06:29:53.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4cc9da325db46a42727e0"
+  },
+  "student_id": {
+    "$oid": "64d4cc9da325db46a42727dc"
+  },
+  "created_at": {
+    "$date": "2023-08-10T06:29:53.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4cc9da325db46a42727e2"
+  },
+  "student_id": {
+    "$oid": "64d4cc9da325db46a42727dc"
+  },
+  "created_at": {
+    "$date": "2023-08-10T06:29:53.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4cd50a325db46a427280e"
+  },
+  "course": "sslc",
+  "college": "St.philomena college",
+  "percentage": "70",
+  "student_id": {
+    "$oid": "64d4cd50a325db46a427280c"
+  },
+  "created_at": {
+    "$date": "2023-08-10T06:29:53.550Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d4cd50a325db46a4272810"
+  },
+  "student_id": {
+    "$oid": "64d4cd50a325db46a427280c"
+  },
+  "created_at": {
+    "$date": "2023-08-10T06:29:53.550Z"
+  },
+  "__v": 0,
+  "college": "vidyarashmi vidyalaya",
+  "course": "PUC",
+  "percentage": "70"
+},
+{
+  "_id": {
+    "$oid": "64d4cd50a325db46a4272812"
+  },
+  "student_id": {
+    "$oid": "64d4cd50a325db46a427280c"
+  },
+  "created_at": {
+    "$date": "2023-08-10T06:29:53.550Z"
+  },
+  "__v": 0,
+  "college": "St.Philomena College",
+  "course": "Degree",
+  "percentage": "70"
+},
+{
+  "_id": {
+    "$oid": "64d608e478da4681c88680de"
+  },
+  "student_id": {
+    "$oid": "64d608e478da4681c88680dc"
+  },
+  "created_at": {
+    "$date": "2023-08-11T09:19:21.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d608e478da4681c88680e0"
+  },
+  "student_id": {
+    "$oid": "64d608e478da4681c88680dc"
+  },
+  "created_at": {
+    "$date": "2023-08-11T09:19:21.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d608e478da4681c88680e2"
+  },
+  "student_id": {
+    "$oid": "64d608e478da4681c88680dc"
+  },
+  "created_at": {
+    "$date": "2023-08-11T09:19:21.506Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72b9f32aff20387d5937b"
+  },
+  "student_id": {
+    "$oid": "64d72b9f32aff20387d59379"
+  },
+  "created_at": {
+    "$date": "2023-08-12T06:32:56.202Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72b9f32aff20387d5937d"
+  },
+  "student_id": {
+    "$oid": "64d72b9f32aff20387d59379"
+  },
+  "created_at": {
+    "$date": "2023-08-12T06:32:56.202Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d72b9f32aff20387d5937f"
+  },
+  "student_id": {
+    "$oid": "64d72b9f32aff20387d59379"
+  },
+  "created_at": {
+    "$date": "2023-08-12T06:32:56.202Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "64d73103275094b76079627a"
+  },
+  "student_id": {
+    "$oid": "64d73103275094b760796278"
+  },
+  "created_at": {
+    "$date": "2023-08-12T06:58:07.902Z"
+  },
+  "__v": 0,
+  "college": "St.Philomena College",
+  "course": "SSLC",
+  "percentage": "70"
+},
+{
+  "_id": {
+    "$oid": "64d73103275094b76079627c"
+  },
+  "student_id": {
+    "$oid": "64d73103275094b760796278"
+  },
+  "created_at": {
+    "$date": "2023-08-12T06:58:07.902Z"
+  },
+  "__v": 0,
+  "college": "vidyarashmi vidyalaya",
+  "course": "PUC",
+  "percentage": "72"
+},
+{
+  "_id": {
+    "$oid": "64d73103275094b76079627e"
+  },
+  "student_id": {
+    "$oid": "64d73103275094b760796278"
+  },
+  "created_at": {
+    "$date": "2023-08-12T06:58:07.902Z"
+  },
+  "__v": 0,
+  "college": "St.Philomena College",
+  "course": "Degree",
+  "percentage": "70"
+}]
